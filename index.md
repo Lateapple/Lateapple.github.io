@@ -4,6 +4,8 @@ This page marks the start of my journey to learn how to code. Although I have pr
 
 During my learning, I will look to create small games or applications which will be available for you to download and play around with.
 
+![Logo](https://tse1.mm.bing.net/th/id/OIP.cgobCPrp6atOp-UjaXWZ5gHaHa?pid=Api&rs=1)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
