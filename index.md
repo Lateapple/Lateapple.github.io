@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## The Plan!
 
-You can use the [editor on GitHub](https://github.com/Lateapple/Lateapple.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This page marks the start of my journey to learn how to code. Although I have previously taught myself HTML and CSS. I will be pursuing languages such as C++, Python and SQL.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+During my learning, I will look to create small games or applications which will be available for you to download and play around with.
 
 ### Markdown
 
